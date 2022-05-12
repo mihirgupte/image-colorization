@@ -5,6 +5,8 @@ https://github.com/richzhang/colorization/tree/caffe
 
 #### Paper - https://arxiv.org/abs/1603.08511
 
+#### Image Dataset - https://www.kaggle.com/datasets/shravankumar9892/image-colorization
+
 #### Steps to run the api locally-
 <ol>
     <li>Clone the repository</li>
