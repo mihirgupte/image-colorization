@@ -1,0 +1,11 @@
+.deta
+__pycache__
+colorization_release_v2.caffemodel
+images/
+image_env
+data/
+*.png
+*.cfg
+Include
+Lib
+model/
